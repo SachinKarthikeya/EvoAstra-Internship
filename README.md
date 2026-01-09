@@ -8,7 +8,7 @@ The skill evaluation assessment was based on an E-commerce Customer Behavior dat
 - Research Methodology and Predictive Analysis
 - Professional Communication and Leadership Skills
 
-## Major Project - Image Captioning using Hybrid CNN-LSTM Model
+## Major Project - Image Caption Generator using Hybrid CNN-LSTM Model
 
 The major project aims to generate descriptive captions for the given images by implementing a hybrid Convolutional Neural Network (CNN) - Long-Short Term Memory (LSTM) models. The project involves essential steps like Image pre-processing, Captions cleaning and Tokenization, Image Features Extraction, Model Building, Training and Evaluation.
 
