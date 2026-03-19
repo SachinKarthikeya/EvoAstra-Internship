@@ -24,6 +24,7 @@ The major project aims to generate descriptive captions for the given images by 
 - Trained the model over 20 epochs
 - Saved the trained model
 - Evaluated the model using Bilingual Evaluation Understudy (BLEU) scores.
+- Containerized the whole project using Docker
 
 ## Minor Project - Web Scraping for Data Extraction and Presentation
 
